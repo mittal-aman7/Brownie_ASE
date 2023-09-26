@@ -1,3 +1,2 @@
-# Advance Topics of Software Engineering
-# Brownie
-Enhancemet and bug fixes on the existing security analysis tool
+# Advance Topics of Software Engineering: Brownie 
+Enhancement and bug fixes on the existing smart contract framework.
