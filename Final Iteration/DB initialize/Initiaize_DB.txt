@@ -1,0 +1,6 @@
+Need to initialize the db before running the code:
+
+
+flask db init
+flask db migrate -m "Initial migration."
+flask db upgrade
